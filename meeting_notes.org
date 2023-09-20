@@ -1,0 +1,10 @@
+* Meeting with %^{Name}
+** Date: %U
+** Attendees:
+- [ ] A
+- [ ] B
+- [ ] C
+** Notes:
+- a
+- b
+- c
